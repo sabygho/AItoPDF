@@ -1,0 +1,6 @@
+{
+  "appId": "com.massivemark.app",
+  "appName": "MassiveMark Studio",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
